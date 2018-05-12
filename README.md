@@ -52,7 +52,7 @@ Google offers another new website performance test that is much tougher than the
 
 ## Description
 
-This plugin is a .htaccess editor with code highlighting for optimization purposes. The editor supports over 30 code highlighting themes.
+This plugin is a .htaccess editor with code highlighting for optimization purposes. The editor supports over 30 code highlighting themes and has built in features such as (regular expression) search & replace.
 
 ![.htaccess editor](https://github.com/o10n-x/wordpress-htaccess-editor/blob/master/docs/images/htaccess-editor.png)
 
