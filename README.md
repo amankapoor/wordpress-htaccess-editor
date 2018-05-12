@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/o10n-x/wordpress-htaccess-editor.svg?branch=master)](https://travis-ci.org/o10n-x/wordpress-htaccess-editor) ![Version](https://img.shields.io/github/release/o10n-x/wordpress-htaccess-editor.svg)
 
-<div style="text-align:right;"><img src="https://github.com/o10n-x/wordpress-htaccess-editor/blob/master/admin/images/htaccess-logo.png"></div>
+<div style="text-align:right;" align="right"><img src="https://github.com/o10n-x/wordpress-htaccess-editor/blob/master/admin/images/htaccess-logo.png"></div>
 
 # WordPress .htaccess Editor
 
