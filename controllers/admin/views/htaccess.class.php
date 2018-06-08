@@ -37,7 +37,8 @@ class AdminViewHtaccess extends AdminViewBase
             'file',
             'options',
             'AdminClient',
-            'AdminScreen'
+            'AdminScreen',
+            'AdminHtaccess'
         ));
     }
     
@@ -79,14 +80,7 @@ class AdminViewHtaccess extends AdminViewBase
      */
     final public function help_tab()
     {
-        $data = array(
-            'name' => __('.htaccess Editor', 'o10n'),
-            'github' => 'https://github.com/o10n-x/wordpress-htaccess-editor',
-            'wordpress' => 'https://wordpress.org/support/plugin/htaccess-editor',
-            'docs' => 'https://github.com/o10n-x/wordpress-htaccess-editor/tree/master/docs'
-        );
-
-        return $data;
+        return $this->AdminHtaccess->help_tab();
     }
 
     /**
