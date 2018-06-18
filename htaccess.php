@@ -12,7 +12,7 @@ namespace O10n;
  * @wordpress-plugin
  * Plugin Name:       .htaccess Editor
  * Description:       Advanced .htaccess editor for optimization purposes.
- * Version:           0.0.11
+ * Version:           0.0.12
  * Author:            Optimization.Team
  * Author URI:        https://optimization.team/
  * GitHub Plugin URI: https://github.com/o10n-x/wordpress-htaccess-editor
@@ -30,7 +30,7 @@ if (defined('WP_INSTALLING') && WP_INSTALLING) {
 }
 
 // settings
-$module_version = '0.0.11';
+$module_version = '0.0.12';
 $minimum_core_version = '0.0.48';
 $plugin_path = dirname(__FILE__);
 
